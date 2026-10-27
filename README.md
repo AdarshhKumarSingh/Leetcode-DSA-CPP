@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
