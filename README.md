@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
