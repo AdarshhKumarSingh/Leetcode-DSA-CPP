@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
