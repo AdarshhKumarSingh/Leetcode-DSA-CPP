@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
