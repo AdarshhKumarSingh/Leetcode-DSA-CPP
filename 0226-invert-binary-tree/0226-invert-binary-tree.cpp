@@ -8,21 +8,40 @@
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
- */
-class Solution {
-public:
-     void invert(TreeNode* root){
-        if(root==NULL)return;
+//  */
+
+// Method 1
+// class Solution {
+// public:
+//      void invert(TreeNode* root){
+//         if(root==NULL)return;
+//         TreeNode* temp = root->left;
+//         root->left=root->right;
+//         root->right=temp;
+//         invert(root->left);
+//         invert(root->right);
+
+//      }
+
+//     TreeNode* invertTree(TreeNode* root) {
+//         invert(root);
+//         return root;
+//     }
+//};
+
+
+
+
+// Method 2
+class Solution{
+    public:
+    TreeNode* invertTree(TreeNode* root){
+        if(root==NULL) return NULL;
         TreeNode* temp = root->left;
-        root->left=root->right;
-        root->right=temp;
-        invert(root->left);
-        invert(root->right);
-
-     }
-
-    TreeNode* invertTree(TreeNode* root) {
-        invert(root);
+        root->left = invertTree(root->right);
+        root->right  = invertTree(temp);
         return root;
+
+
     }
 };
