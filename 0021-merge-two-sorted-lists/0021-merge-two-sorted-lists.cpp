@@ -42,3 +42,11 @@ public:
       return dummy->next;  
     }
 };
+
+
+
+// Dono sorted LL ke liye i aur j pointers banao.
+// Dummy node banao aur k ko us par rakho.
+// Dono lists mein se jo value chhoti ho, use k->next se connect karo.
+// Selected list ka pointer aage badhao.
+// Jab koi ek list khatam ho jaaye, doosri list ko directly attach kar do.
