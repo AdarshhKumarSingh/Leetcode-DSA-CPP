@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
