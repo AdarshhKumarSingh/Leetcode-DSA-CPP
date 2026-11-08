@@ -26,16 +26,33 @@ public:
 
     }
     bool isPalindrome(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-    // reach the left  middle(even)
-        while(fast->next!=NULL and fast->next->next!=NULL){
-            slow=slow->next;
-            fast = fast->next->next;
+    //     ListNode* slow = head;
+    //     ListNode* fast = head;
+    // // reach the left  middle(even)
+    //     while(fast->next!=NULL and fast->next->next!=NULL){
+    //         slow=slow->next;
+    //         fast = fast->next->next;
+    //     }
+    //     ListNode* a = head;
+    //     ListNode* b = slow->next;
+    //     slow->next=NULL;
+
+        int length = 0;
+        ListNode* temp = head;
+
+        while(temp!=NULL){
+            length++;
+            temp=temp->next;
+        }
+
+        temp = head;
+
+        for(int i=1;i<length/2;i++){
+            temp = temp->next;
         }
         ListNode* a = head;
-        ListNode* b = slow->next;
-        slow->next=NULL;
+        ListNode* b = temp->next;
+        temp->next = NULL;
 
         b = reverse(b);
 
