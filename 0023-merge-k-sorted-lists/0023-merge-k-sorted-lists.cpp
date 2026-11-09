@@ -42,7 +42,7 @@ public:
 
     ListNode* mergeKLists(vector<ListNode*>& arr) {
         if(arr.size()==0)return NULL;
-        
+
         while(arr.size()>1){
             ListNode* a  =arr[arr.size()-1];
             arr.pop_back();
@@ -53,8 +53,6 @@ public:
         }
 
         return arr[0];
-
-
         
     }
 };
