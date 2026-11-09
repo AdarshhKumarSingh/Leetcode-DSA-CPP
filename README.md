@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0189-rotate-array) |
+| [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
