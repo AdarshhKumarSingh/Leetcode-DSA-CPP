@@ -14,7 +14,7 @@ public:
     ListNode* swapPairs(ListNode* head) {
 
         if(head == NULL || head->next == NULL) return head;
-        
+
         ListNode* odd  =  new ListNode(-1);
         ListNode* even = new ListNode(-1);
 
@@ -60,3 +60,15 @@ public:
         
     }
 };
+
+
+
+//Odd aur even index ki separate LL banao.
+// Even LL ko i aur odd LL ko j pointer se traverse karo.
+// Pehle even node, phir odd node connect karo.
+// Alternatively merge karte jao.
+// Last mein jo bhi node bachi ho, attach kar do.
+
+
+
+
