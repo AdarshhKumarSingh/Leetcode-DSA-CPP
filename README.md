@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0503-next-greater-element-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
