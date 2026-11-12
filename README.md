@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0704-binary-search) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
@@ -199,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
