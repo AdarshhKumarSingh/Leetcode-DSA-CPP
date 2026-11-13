@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0682-baseball-game) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AdarshhKumarSingh/Leetcode-DSA-CPP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
